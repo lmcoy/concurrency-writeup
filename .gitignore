@@ -1,0 +1,5 @@
+.venv
+project
+target
+.metals
+.bloop
